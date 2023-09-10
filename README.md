@@ -1,3 +1,3 @@
 # demo-nitish
 First rep
-Author- Nitish 
+Author- Nitish Sunagad
